@@ -1,0 +1,5 @@
+1. Tujuan mengikuti bootcamp meningkatkan skill khususnya pemrograman javascript, dan berkarir sebagai programer.
+
+2. Rencana kedepan setelah mengikuti bootcamp adalah berkarir sebagai programmer diperusahaan ternama.
+
+3. Number, String, Boolean, Undefined, Null
