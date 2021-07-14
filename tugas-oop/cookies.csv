@@ -1,0 +1,6 @@
+id,name,price,type,sugar
+1,Brownies,100000,Chocolate,true
+2,Red Velvet,50000,Strawberry,true
+3,Veggie Cake,35000,Sweet,false
+4,Sweet Cream,15000,Sweet,true
+5,Chocolate Muffin,13000,Chocolate,true
